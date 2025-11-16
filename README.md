@@ -23,7 +23,7 @@ pip install quickeda-kit
 ### From Source
 
 ```bash
-git clone https://github.com/ashishali/auto_eda.git
+git clone https://github.com/ashishali/quickeda_kit.git
 cd auto_eda
 pip install -e .
 ```
