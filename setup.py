@@ -6,11 +6,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="auto-eda",
     version="0.1.0",
-    author="Your Name",
+    author="Ashish",
     description="A completely automatic EDA (Exploratory Data Analysis) library for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/auto-eda",
+    url="https://github.com/ashishali/auto_eda",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
